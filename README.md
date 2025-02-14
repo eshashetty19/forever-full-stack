@@ -12,8 +12,7 @@
 - **MongoDB Atlas** – Scalable NoSQL database  
 
 ### **Deployment & Scaling:**  
-- **Render** – Web app deployment, Load balancing, and Manual Scaling  
-- **IBM Cloud Auto-Scaling** – Ensures high availability  
+- **Render** – Web app deployment, Load balancing, and Manual Scaling   
 
 ### **Monitoring & Logs:**  
 - **Render Logs & Metrics** – Application performance tracking  
@@ -22,7 +21,7 @@
 ### **Payments & AI Services:**  
 - **Stripe** – Secure online payments  
 - **IBM Watson Assistant** – AI-powered chatbot for customer interactions
-  https://github.com/eshashetty19/forever-full-stack/tree/main
+  
 ## 🌍 Live Deployment  
 
 - **Frontend:** [https://front-68iz.onrender.com/](https://front-68iz.onrender.com/)  
