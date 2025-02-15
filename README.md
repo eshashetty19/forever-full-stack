@@ -28,7 +28,7 @@
 - **Backend:** [https://forever-full-stack-u9aq.onrender.com](https://forever-full-stack-u9aq.onrender.com)  
 - **Admin Panel:** [https://admin-8j1w.onrender.com/](https://admin-8j1w.onrender.com/)
   
-##Environment variables
+## Environment variables
 
 - **JWT_SECRET** - "greatstack"
 - **ADMIN_EMAIL** - "admin@example.com"
