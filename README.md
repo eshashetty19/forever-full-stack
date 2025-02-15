@@ -30,15 +30,15 @@
   
 ##Environment variables
 
-JWT_SECRET = "greatstack"
-ADMIN_EMAIL = "admin@example.com"
-ADMIN_PASSWORD = "greatstack123"
+-JWT_SECRET = "greatstack"
+-ADMIN_EMAIL = "admin@example.com"
+-ADMIN_PASSWORD = "greatstack123"
 
-MONGODB_URI="------Paste mongodb url--------"
+-MONGODB_URI="------Paste mongodb url--------"
 
-CLOUDINARY_API_KEY = "-----paste api key------"
-CLOUDINARY_SECRET_KEY = "----paste cloudinary secret key-----"
-CLOUDINARY_NAME = "----paste cloudinary name------"
+-CLOUDINARY_API_KEY = "-----paste api key------"
+-CLOUDINARY_SECRET_KEY = "----paste cloudinary secret key-----"
+-CLOUDINARY_NAME = "----paste cloudinary name------"
 
-STRIPE_SECRET_KEY = "-----paste stripe secret key-------"
+-STRIPE_SECRET_KEY = "-----paste stripe secret key-------"
 
